@@ -4,4 +4,4 @@ Co-president Adam Gulde
 
 Co-president Adrian Bennett
 
-This repository includes an intro to Python functions.
+This repository includes an intro to Python functions, and an intro to variables
